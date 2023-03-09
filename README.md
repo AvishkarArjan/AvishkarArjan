@@ -6,15 +6,15 @@
 
 <p align="left"> <a href="https://twitter.com/avishkararjan" target="blank"><img src="https://img.shields.io/twitter/follow/avishkararjan?logo=twitter&style=for-the-badge" alt="avishkararjan" /></a> </p>
 
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 I’m currently learning **Operating Systems & Network Security**
 
 - 📝 I regularly write articles on [https://hashnode.com/@AvishkarArjan](https://hashnode.com/@AvishkarArjan)
 
-- 💬 Ask me about **Cloud, Kubernetes, Containers**
+- 💬 Ask me about **Linux, MERN Dev, VMs, C**
 
-- 📫 How to reach me **avishkararjan@gmail.com**
+- 📫 How to reach me **[My Portfolio - Go to Contacts section](https://avishkararjan.netlify.app/)**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **Studying Operating Systems at a time when everyone's going for AI,ML,DS,Blockchain coz its "Niche" **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
