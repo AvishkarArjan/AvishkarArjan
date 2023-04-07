@@ -10,11 +10,11 @@
 
 - 📝 I regularly write articles on [https://hashnode.com/@AvishkarArjan](https://hashnode.com/@AvishkarArjan)
 
-- 💬 Ask me about **Linux, MERN Dev, VMs, C**
+- 💬 Ask me about **Linux,ML models, MERN Dev, Python, C++**
 
 - 📫 How to reach me **[My Portfolio - Go to Contacts section](https://avishkararjan.netlify.app/)**
 
-- ⚡ Fun fact **Studying Operating Systems at a time when everyone's going for AI,ML,DS,Blockchain coz its "Niche" **
+- ⚡ Fun fact ** AI/ML/DL is better than Web3/Blockchain **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
