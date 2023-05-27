@@ -6,6 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/avishkararjan" target="blank"><img src="https://img.shields.io/twitter/follow/avishkararjan?logo=twitter&style=for-the-badge" alt="avishkararjan" /></a> </p>
 
+- I'm a contributor at [GSSoC 2023](https://gssoc.girlscript.tech/)
 - 🌱 I’m currently learning **Tensorflow, Django, Python Scripting**
 
 - 👨‍💻 All of my projects are available at [https://avishkararjan.netlify.app/](https://avishkararjan.netlify.app/)
