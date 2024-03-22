@@ -6,18 +6,18 @@
 
 <p align="left"> <a href="https://twitter.com/avishkararjan" target="blank"><img src="https://img.shields.io/twitter/follow/avishkararjan?logo=twitter&style=for-the-badge" alt="avishkararjan" /></a> </p>
 
-- I'm a contributor at [GSSoC 2023](https://gssoc.girlscript.tech/)
-- 🌱 I’m currently learning **Tensorflow, Django, Python Scripting**
+- Checkout my portfolio [here](https://avishkararjan.vercel.app/)
+- 🌱 Currently learning **SLAM, Autonomous Robotics, CV/DL/RL**
 
 - 👨‍💻 All of my projects are available at [https://avishkararjan.netlify.app/](https://avishkararjan.netlify.app/)
 
-- 📝 I regularly write articles on [https://hashnode.com/@AvishkarArjan](https://hashnode.com/@AvishkarArjan)
+- 🐦 Please follow me on [Twitter](https://twitter.com/avishkararjan), I'm desperate.
 
-- 💬 Ask me about **ML Models, Full Stack Web development**
+- 💬 Lets connect **(if you think Robotic Automation is the next big thing in AI)**
 
-- 📫 How to reach me **avishkar2108@gmail.com**
+- 📫 How to reach me **avishkararjan@gmail.com**
 
-- ⚡ Fun fact **I am learning something that can technically replace the need for all my current skills.**
+- ⚡ Fun fact **I'm probably onto creating a dystopian future with humanoids etc, like the ones we see in movies, all just for the sake of my long term career.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
