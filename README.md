@@ -5,8 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/avishkararjan" target="blank"><img src="https://img.shields.io/twitter/follow/avishkararjan?logo=twitter&style=for-the-badge" alt="avishkararjan" /></a> </p>
 
+<i>Investments, Rewards, Consequences, Self-Actualization, Redemption.</i>
+
 - Checkout my portfolio [here](https://avishkararjan.vercel.app/)
-- 🌱 Currently learning **SLAM, Autonomous Robotics, CV/DL/RL**
 
 - 👨‍💻 All of my projects are available at [https://avishkararjan.netlify.app/](https://avishkararjan.vercel.app/)
 
