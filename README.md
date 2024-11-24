@@ -9,7 +9,7 @@
 
 - Checkout my portfolio [here](https://avishkararjan.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://avishkararjan.netlify.app/](https://avishkararjan.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://avishkararjan.vercel.app/](https://avishkararjan.vercel.app/)
 
 - 🐦 (X) [Twitter](https://twitter.com/avishkararjan).
 
