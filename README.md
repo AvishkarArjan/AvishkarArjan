@@ -11,6 +11,3 @@ I building AI systems to optimize investments.
 
 - 🐦 (X) [Twitter](https://twitter.com/avishkararjan).
 
-- Reach me **avishkararjan@gmail.com**
-
-
