@@ -1,13 +1,21 @@
-<h1 align="center">Hi 👋, I'm Avishkar</h1>
-<h3 align="center">Investments, Rewards, Consequences, Self-Actualization, Redemption.</h3>
+<h3 align="center">👋 Hi there, I'm Avishkar</h3>
 
-I building AI systems to optimize investments.
+<p align="center">
+  <a href="https://avishkararjan.github.io/">Website</a> •
+  <a href="https://x.com/avishkararjan">X</a> •
+  <a href="https://www.linkedin.com/in/avishkararjan">LinkedIn</a> •
+  <a href="https://www.youtube.com/@avishkararjan3570">YouTube</a> •
+  <a href="mailto:avishkararjan@gmail.com">Email</a>
+  
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=avishkararjan&label=Profile%20views&color=0e75b6&style=flat" alt="avishkararjan" /> </p>
+---
+I like to build AI tools for stock investing. 
+- 🎯 My ongoing project [Relativity](https://github.com/relativityAI/relativity-markets).
+- 🎓 Pursuing M.Sc. @ **University of Paderborn**
+- 📍 Germany
+- ⚙️ My coding setup: `opencode`, `ponytail`
 
-<p align="left"> <a href="https://twitter.com/avishkararjan" target="blank"><img src="https://img.shields.io/twitter/follow/avishkararjan?logo=twitter&style=for-the-badge" alt="avishkararjan" /></a> </p>
+## 📊 GitHub Activity
 
-- Portfolio [click](https://avishkararjan.github.io/)
-
-- 🐦 (X) [Twitter](https://twitter.com/avishkararjan).
-
+![GitHub Metrics](./github-metrics.svg)
