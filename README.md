@@ -16,6 +16,6 @@ I like to build AI tools for stock investing.
 - 📍 Germany
 - ⚙️ My coding setup: `opencode`, `ponytail`
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 ![GitHub Metrics](./github-metrics.svg)
